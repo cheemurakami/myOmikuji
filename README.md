@@ -1,4 +1,4 @@
-# Programming Language Suggester
+# Omikuji
 
 https://cheemurakami.github.io/myOmikuji/
 
